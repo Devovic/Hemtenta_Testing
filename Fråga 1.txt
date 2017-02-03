@@ -1,0 +1,3 @@
+Röd: Man gör ett test först för att den ska bli röd/faila.
+Grön: Skriver den minsta mängden kod för att få testet grönt.
+Refactor: Det är när man gör om koden, så att den blir snyggare och bättre.
